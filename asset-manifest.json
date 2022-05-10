@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/efadh-site/static/css/main.5780b8fa.css",
+    "main.js": "/efadh-site/static/js/main.ce6136a4.js",
+    "static/media/bg.jpg": "/efadh-site/static/media/bg.4b59cea9373e37692746.jpg",
+    "static/media/NoPath.jpg": "/efadh-site/static/media/NoPath.831a13e9ad81347725f9.jpg",
+    "static/media/3.jpg": "/efadh-site/static/media/3.483d151fb6b032f440a0.jpg",
+    "static/media/2.jpg": "/efadh-site/static/media/2.57e50905ee6c99e06525.jpg",
+    "static/media/1.jpg": "/efadh-site/static/media/1.2065bedd40b772e67dc2.jpg",
+    "static/media/efadh-logo.svg": "/efadh-site/static/media/efadh-logo.2ac9c0d0f808504ecb53bd246382d3a9.svg",
+    "static/media/logo.svg": "/efadh-site/static/media/logo.66a5409c6bd44a946bdeafef1e7209a9.svg",
+    "static/media/three.svg": "/efadh-site/static/media/three.b18256d48dba420d10e23ad02b82a5db.svg",
+    "static/media/two.svg": "/efadh-site/static/media/two.0f3364bbfcea22ca8aa019bc92914198.svg",
+    "static/media/four.svg": "/efadh-site/static/media/four.d9b4df959dad1f19ee564bb254e7a0d6.svg",
+    "static/media/one.svg": "/efadh-site/static/media/one.adab990d8aca9459ba071298725c1195.svg",
+    "static/media/2.svg": "/efadh-site/static/media/2.5eb60c671efe6ab6790d7bbd76037211.svg",
+    "static/media/1.svg": "/efadh-site/static/media/1.7399f5f9f7d928da8abac5426a1cf401.svg",
+    "static/media/company.svg": "/efadh-site/static/media/company.2185e0fc9f55194728b9a1b749dcca79.svg",
+    "static/media/mark.svg": "/efadh-site/static/media/mark.0385555a3a11efb3545554379a91ea32.svg",
+    "static/media/agent.svg": "/efadh-site/static/media/agent.03a3bf0198be35824884afdb0ac9baf7.svg",
+    "static/media/ind.svg": "/efadh-site/static/media/ind.b11b4faf2ba3c7e7ddd109d4b329a374.svg",
+    "static/media/badge.svg": "/efadh-site/static/media/badge.1f7c7d7483ad2786c1174e608dec98ab.svg",
+    "static/media/4.svg": "/efadh-site/static/media/4.e38a995fbc8ced3fc36a9c6427648848.svg",
+    "static/media/3.svg": "/efadh-site/static/media/3.8a9276731a0dd8f27783711ecb820718.svg",
+    "static/media/arrow.svg": "/efadh-site/static/media/arrow.4c4a5947e6b9b99203ea7de3266a1bed.svg",
+    "index.html": "/efadh-site/index.html",
+    "static/media/glasses.svg": "/efadh-site/static/media/glasses.dfb71cf8202b44613922fa52129b5085.svg",
+    "main.5780b8fa.css.map": "/efadh-site/static/css/main.5780b8fa.css.map",
+    "main.ce6136a4.js.map": "/efadh-site/static/js/main.ce6136a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5780b8fa.css",
+    "static/js/main.ce6136a4.js"
+  ]
+}
